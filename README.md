@@ -21,10 +21,10 @@ Experienced DevOps Engineer skilled in optimizing CI/CD pipelines, automating cl
 | [CKA: Certified Kubernetes Administrator](https://www.credly.com/badges/34cc07ba-975f-4451-a81d-bd2efa0ba603/public_url) |
 | [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/bc4024ce-a0f5-4665-b22a-8dc9d234a2fa/public_url) |
 
-## Education
-|:--------|
-| B.Tech, Computer Enigineering | Marwadi University (May 2022)	|					       		
-| HSC, Science | The School of Science (June 2018) |	        		
+| Education | Oraganization |
+|:--------|:--------|
+| B.Tech, Computer Enigineering | Marwadi University (May 2022)	|
+| HSC, Science | The School of Science (June 2018) |
 
 ## Work Experience
 **DevOps Engineer @ [Morden Data](https://themoderndatacompany.com) (Jan 2024 - Present)**

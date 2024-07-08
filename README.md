@@ -1,11 +1,11 @@
-## About Me
-- Experienced DevOps Engineer skilled in optimizing CI/CD pipelines, automating cloud infrastructure, and fortifying software security. Proficient in Docker, Kubernetes, Prometheus, Terraform, AWS, and Azure. Strong understanding of DevOps Approach and CI/CD methodologies, with a proven ability to streamline workflows through cross-functional collaboration.
+## Devops Engineer
+Experienced DevOps Engineer skilled in optimizing CI/CD pipelines, automating cloud infrastructure, and fortifying software security. Proficient in Docker, Kubernetes, Prometheus, Terraform, AWS, and Azure. Strong understanding of DevOps Approach and CI/CD methodologies, with a proven ability to streamline workflows through cross-functional collaboration.
 
-| Contact Details|
+| Contact Details |
 |:--------|
 | +91-9484977202 |
 | Hyderabad, India |
-| harnesha22@gmail.com | 
+| [harnesha22@gmail.com](harnesha22@gmail.com) |
 | [linkedin.com/in/jay-harnesha](https://www.linkedin.com/in/jay-harnesha) |
 
 ## Technical Skills
@@ -21,10 +21,10 @@
 | [CKA: Certified Kubernetes Administrator](https://www.credly.com/badges/34cc07ba-975f-4451-a81d-bd2efa0ba603/public_url) |
 | [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/bc4024ce-a0f5-4665-b22a-8dc9d234a2fa/public_url) |
 
-
 ## Education
-- B.Tech, Computer Enigineering | Marwadi University (May 2022)								       		
-- HSC, Science	| The School of Science (June 2018)	 			        		
+|:--------|
+| B.Tech, Computer Enigineering | Marwadi University (May 2022)	|					       		
+| HSC, Science | The School of Science (June 2018) |	        		
 
 ## Work Experience
 **DevOps Engineer @ [Morden Data](https://themoderndatacompany.com) (Jan 2024 - Present)**
@@ -54,9 +54,9 @@
 - Collaborated with clients to understand their needs, recommending suitable hardware solutions for their environments.
 
 ## Projects
+
 ### On-Premise DevOps
-Deployed and managed an on-premises kubernetes cluster with multi master, which equipped with 250 GB memory and 60 cpu cores. Integrated sonarqube for code analysis, jenkins for CI/CD automation, and
-prometheus for system monitoring. Established end-to-end DevOps processes across dev, qa environments, ensuring code quality, reliability, and scalability.
+Deployed and managed an on-premises kubernetes cluster with multi master, which equipped with 250 GB memory and 60 cpu cores. Integrated sonarqube for code analysis, jenkins for CI/CD automation, and prometheus for system monitoring. Established end-to-end DevOps processes across dev, qa environments, ensuring code quality, reliability, and scalability.
 
 ### Jimi-Iot
 Bellw deployed Jim IoT stack consisting of 20 microservices using terraform for automation. aws ecs fargate was utilized for scalable backend deployment, implementing service discovery for internal communication. Load balancing was achieved through aws alb & nlb services, with nfs shared network storage facilitating container data sharing.

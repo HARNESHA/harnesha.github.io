@@ -13,7 +13,7 @@
 |:--------|:--------|
 | Server & Automation | Nginx, Apache, Linux, Kafka, Argo CD, Jenkins, GitLab, GitHub-Workflow, Terraform, Ansible |
 | Databases & Cloud | Aws, Azure, Gcp, MongoDB, MySQL, PostgreSQL,Redis |
-| Tools & Programming | Docker, Kubernetes, Prometheus, ELK, Scripting |
+| Tools & Programming | Docker, Kubernetes, Prometheus, Grafana, Elk, Scripting |
 
 | Certification |
 |:--------|

@@ -1,6 +1,8 @@
 # Devops Engineer
-| +91-9484977202 | Hyderabad, India |
-| harnesha22@gmail.com | [linkedin.com/in/jay-harnesha](https://www.linkedin.com/in/jay-harnesha)
+| +91-9484977202 |
+| Hyderabad, India |
+| harnesha22@gmail.com | 
+| [linkedin.com/in/jay-harnesha](https://www.linkedin.com/in/jay-harnesha) |
 
 #### Technical Skills:
 

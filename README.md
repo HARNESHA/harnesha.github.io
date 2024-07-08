@@ -8,7 +8,7 @@
 | harnesha22@gmail.com | 
 | [linkedin.com/in/jay-harnesha](https://www.linkedin.com/in/jay-harnesha) |
 
-## Technical Skills:
+## Technical Skills
 
 | Domain | Skills |
 |:--------|:--------|

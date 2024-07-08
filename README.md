@@ -1,4 +1,7 @@
 # Devops Engineer
+
+| Contact |
+|:--------:|
 | +91-9484977202 |
 | Hyderabad, India |
 | harnesha22@gmail.com | 
@@ -13,6 +16,7 @@
 | Tools & Programming | Docker, Kubernetes, Prometheus, ELK, Scripting |
 
 ## Certification
+|:--------:|
 | [CKA: Certified Kubernetes Administrator](https://www.credly.com/badges/34cc07ba-975f-4451-a81d-bd2efa0ba603/public_url) |
 | [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/bc4024ce-a0f5-4665-b22a-8dc9d234a2fa/public_url) |
 

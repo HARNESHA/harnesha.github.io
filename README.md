@@ -56,7 +56,3 @@ Developed and deployed a secure, scalable backend infrastructure using Amazon ec
 
 ### Curamcare
 Orchestrated a secure and scalable backend workload using ecs and waf with AWS Config, provisioned via terraform. Spearheaded a devsecops Pipeline integrated with code pipeline and github action to bolster security.Leveraged a cdn for global accessibility and reduced latency.
-
-## Publications
-
-- [Techinal Blog](https://medium.com/@harnesha22)

@@ -1,6 +1,6 @@
 # Devops Engineer
 
-| Contact |
+| Contact Details|
 |:--------|
 | +91-9484977202 |
 | Hyderabad, India |
@@ -22,8 +22,8 @@
 
 
 ## Education
-- B.Tech., Computer Enigineering | Marwadi University (May 2022)								       		
-- HSC., Science	| The School of Science (June 2018)	 			        		
+- B.Tech, Computer Enigineering | Marwadi University (May 2022)								       		
+- HSC, Science	| The School of Science (June 2018)	 			        		
 
 ## Work Experience
 **DevOps Engineer @ [Morden Data](https://themoderndatacompany.com) (Jan 2024 - Present)**

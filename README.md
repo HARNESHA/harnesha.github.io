@@ -1,4 +1,5 @@
-# Devops Engineer
+## About Me
+- Experienced DevOps Engineer skilled in optimizing CI/CD pipelines, automating cloud infrastructure, and fortifying software security. Proficient in Docker, Kubernetes, Prometheus, Terraform, AWS, and Azure. Strong understanding of DevOps Approach and CI/CD methodologies, with a proven ability to streamline workflows through cross-functional collaboration.
 
 | Contact Details|
 |:--------|
@@ -7,7 +8,7 @@
 | harnesha22@gmail.com | 
 | [linkedin.com/in/jay-harnesha](https://www.linkedin.com/in/jay-harnesha) |
 
-#### Technical Skills:
+## Technical Skills:
 
 | Domain | Skills |
 |:--------|:--------|

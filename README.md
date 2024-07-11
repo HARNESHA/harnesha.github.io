@@ -21,17 +21,19 @@
 
 | Education | Oraganization |
 |:--------|:--------|
-| B.Tech, Computer Enigineering | Marwadi University (May 2022)	|
-| HSC, Science | The School of Science (June 2018) |
+| B.Tech, Computer Enigineering | Marwadi University - May 2022	|
+| HSC, Science | The School of Science - June 2018 |
 
 ## Work Experience
 **DevOps Engineer @ [Morden Data](https://themoderndatacompany.com) (Jan 2024 - Present)**
+<p align="justify">
 - Oversee Mordendata’s DataOS platform across aws, azure, and gcp, ensuring performance and accessibility.
 - Utilize kubernetes with major open-source data analytics tools, including updates and scaling.
 - Managed DataOS custom K8s controller deployment with gitops approach via argocd & helm, ensuring proper high availability for crds.
 - Ensured clusters security with Kubernetes rbac approach and network policies to reduce attack surface.
 - Implement grafana and thanos for monitoring across cloud environments, enabling early issue detection & address production hiccups swiftly with elk logging and tracing techniques.
 - Enhance platform resilience with customized alerting strategies.
+</p>
 
 **DevOps Engineer @ [Simform Solutions](https://www.simform.com) (June 2022 - Dec 2023)**
 - Implemented and optimized CI/CD pipelines to accelerate software delivery.

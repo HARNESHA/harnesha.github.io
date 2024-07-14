@@ -61,20 +61,15 @@ Experienced DevOps Engineer skilled in optimizing CI/CD pipelines, automating cl
 <p align="justify">
 Deployed and managed an on-premises kubernetes cluster with multi master, which equipped with 250 GB memory and 60 cpu cores. Integrated sonarqube for code analysis, jenkins for CI/CD automation, and prometheus for system monitoring. Established end-to-end DevOps processes across dev, qa environments, ensuring code quality, reliability, and scalability.
 </p>
-
 ### Jimi-Iot
 <p align="justify">
 Bellw deployed Jim IoT stack consisting of 20 microservices using terraform for automation. aws ecs fargate was utilized for scalable backend deployment, implementing service discovery for internal communication. Load balancing was achieved through aws alb & nlb services, with nfs shared network storage facilitating container data sharing.
 </p>
-
 ### Tagb Parking Solutions
 <p align="justify">
 Developed and deployed a secure, scalable backend infrastructure using Amazon ecs and aws waf. Utilized terraform for automation and provisioning, while establishing an efficient CI/CD pipeline with Jenkins for seamless software delivery.
 </p>
-
 ### Curamcare
 <p align="justify">
 Orchestrated a secure and scalable backend workload using ecs and waf with AWS Config, provisioned via terraform. Spearheaded a devsecops Pipeline integrated with code pipeline and github action to bolster security.Leveraged a cdn for global accessibility and reduced latency.
 </p>
-
-

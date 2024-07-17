@@ -57,6 +57,10 @@ Experienced DevOps Engineer skilled in optimizing CI/CD pipelines, automating cl
 
 ## Projects
 
+### Tsq pla
+<p align="justify">
+Implemented an event-driven, scalable solution using ecs fargate services that dynamically scale based on sqs metrics. Orchestrated a robust backend with ecs-ec2 & cdn for global accessibility and reduced latency, leveraging Lambda functions for serverless computing. Utilized s3 for efficient storage and data management. Provisioned the infrastructure using Terraform for repeatable and efficient deployments.
+</p>
 ### On-Premise DevOps
 <p align="justify">
 Deployed and managed an on-premises kubernetes cluster with multi master, which equipped with 250 GB memory and 60 cpu cores. Integrated sonarqube for code analysis, jenkins for CI/CD automation, and prometheus for system monitoring. Established end-to-end DevOps processes across dev, qa environments, ensuring code quality, reliability, and scalability.

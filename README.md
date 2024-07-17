@@ -57,7 +57,7 @@ Experienced DevOps Engineer skilled in optimizing CI/CD pipelines, automating cl
 
 ## Projects
 
-### Tsq pla
+### Tsq platform
 <p align="justify">
 Implemented an event-driven, scalable solution using ecs fargate services that dynamically scale based on sqs metrics. Orchestrated a robust backend with ecs-ec2 & cdn for global accessibility and reduced latency, leveraging Lambda functions for serverless computing. Utilized s3 for efficient storage and data management. Provisioned the infrastructure using Terraform for repeatable and efficient deployments.
 </p>

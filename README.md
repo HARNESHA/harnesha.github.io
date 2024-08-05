@@ -14,9 +14,10 @@ Experienced DevOps Engineer skilled in optimizing CI/CD pipelines, automating cl
 
 | Domain | Skills |
 |:--------|:--------|
-| Server & Automation | Nginx, Apache, Linux, Kafka, Argo CD, Jenkins, GitLab, GitHub-Workflow, Terraform, Ansible |
-| Databases & Cloud | Aws, Azure, Gcp, MongoDB, MySQL, PostgreSQL,Redis |
-| Tools & Programming | Docker, Kubernetes, Prometheus, Grafana, Elk, Scripting |
+| Server & Automation | Linux, Centos, Nginx, Apache, Argocd, Jenkins, GitLab, GitHub-workflow, Bitbucket, Terraform, Ansible |
+| Databases & Cloud | Aws, Azure, Gcp, Digitalocean, MongoDB, Mysql, PostgreSQL, Redis, Datalake, Kafka, Pulsar |
+| Tools & Programming | Docker, Kubernetes, Prometheus, Datadog, Cloudwatch, Elk, Loki, Grafana, Bash, Powershell |
+| Platform Management | Networking, Troubleshooting, Debugging, Log Analysis & Monitoring, Cloud architecture |
 
 | Certification |
 |:--------|

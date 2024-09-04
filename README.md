@@ -15,14 +15,15 @@ Experienced DevOps Engineer skilled in optimizing CI/CD pipelines, automating cl
 | Domain | Skills |
 |:--------|:--------|
 | Server & Automation | Linux, Centos, Nginx, Apache, Argocd, Jenkins, GitLab, GitHub-workflow, Bitbucket, Terraform, Ansible |
-| Databases & Cloud | Aws, Azure, Gcp, Digitalocean, MongoDB, Mysql, PostgreSQL, Redis, Datalake, Kafka, Pulsar |
+| Databases & Cloud | Aws, Azure, Gcp, Digitalocean, MongoDB, Mysql, PostgreSQL, Redis, Datalake, Kafka, Pulsar, Elasticsearch |
 | Tools & Programming | Docker, Kubernetes, Prometheus, Datadog, Cloudwatch, Elk, Loki, Grafana, Bash, Powershell |
-| Platform Management | Networking, Troubleshooting, Debugging, Log Analysis & Monitoring, Cloud architecture |
+| Platform Management | Networking, Troubleshooting, Debugging, Log Analysis & Monitoring, Cloud architecture, Pki infrastructure |
 
 | Certification |
 |:--------|
 | [CKA: Certified Kubernetes Administrator](https://www.credly.com/badges/34cc07ba-975f-4451-a81d-bd2efa0ba603/public_url) |
 | [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/bc4024ce-a0f5-4665-b22a-8dc9d234a2fa/public_url) |
+| [Digital Badge Profile]([https://www.credly.com/badges/bc4024ce-a0f5-4665-b22a-8dc9d234a2fa/public_url](https://www.credly.com/users/jay_harnesha)) |
 
 | Education | Oraganization |
 |:--------|:--------|
@@ -31,19 +32,24 @@ Experienced DevOps Engineer skilled in optimizing CI/CD pipelines, automating cl
 
 ## Work Experience
 **DevOps Engineer @ [Morden Data](https://themoderndatacompany.com) (Jan 2024 - Present)**
-- <p align="justify"> Oversee Mordendata’s DataOS platform across aws, azure, and gcp, ensuring performance and accessibility. </p>
-- <p align="justify"> Utilize kubernetes with major open-source data analytics tools, including updates and scaling. </p>
-- <p align="justify"> Managed DataOS custom K8s controller deployment with gitops approach via argocd & helm, ensuring proper high availability for crds. </p>
-- <p align="justify"> Ensured clusters security with Kubernetes rbac approach and network policies to reduce attack surface. </p>
-- <p align="justify"> Implement grafana and thanos for monitoring across cloud environments, enabling early issue detection & address production hiccups swiftly with elk logging and tracing techniques. </p>
-- <p align="justify"> Enhance platform resilience with customized alerting strategies. </p>
+- <p align="justify"> Led the oversight and management of MordenData’s DataOS platform deployed across AWS, Azure, and GCP, ensuring optimal performance, high availability, and seamless accessibility. </p>
+- <p align="justify"> Leveraged Kubernetes for orchestrating containerized applications and integrated cutting-edge open-source data analytics tools, handling frequent scaling operations and system updates. </p>
+- <p align="justify"> Implemented comprehensive cluster security with regular security audits, CIS benchmarking for cluster hardening, and advanced RBAC policies, reducing the overall attack surface while ensuring robust protection across the infrastructure. </p>
+- <p align="justify"> Architected and maintained DataOS’s custom Kubernetes controller using a GitOps approach via ArgoCD & Helm, ensuring high availability and consistent deployment of CRDs. </p>
+- <p align="justify"> Reinforced cluster security by implementing fine-grained RBAC policies and network policies to minimize the attack surface, alongside regular security audits. </p>
+- <p align="justify"> Implemented robust observability solutions with Grafana and Thanos for monitoring multi-cloud environments, coupled with ELK stack logging and tracing for real-time issue resolution. </p>
+- <p align="justify"> Enhanced platform resilience by designing and deploying tailored alerting strategies across cloud infrastructures, ensuring rapid response to system anomalies. </p>
+- <p align="justify"> Solely managed client communications, handled escalations efficiently, devised and maintained comprehensive release plans, and ensured timely delivery of updates and patches through rigorous planning and execution strategies. </p>
 
 **DevOps Engineer @ [Simform Solutions](https://www.simform.com) (June 2022 - Dec 2023)**
-- <p align="justify"> Implemented and optimized CI/CD pipelines to accelerate software delivery. </p>
-- <p align="justify"> Leveraged public cloud, primarily aws, to architect scalable and resilient systems, ensuring high availability using services ec2,ecs,alb,nlb,rds,sqs,sns,ses,lambda,pipeline,iam,vpc,cdn,s3. </p>
-- <p align="justify"> Configured on-premise K8s cluster with major DevOps tools like argocd, jenkins, sonarqube, harbor, sentry, kafka, postgres, minio and managed 30+ microservice releases with custom helm chart config in this environment. </p>
-- <p align="justify"> Automated deployments with terraform for efficiency. Monitored systems with cloudWatch and Prometheus, enhancing performance and reliability. </p>
-- <p align="justify"> Implemented DevSecOps approach with github actions ensuring sast, sca, iast, dast of the entire system. </p>
+- <p align="justify"> Engineered and optimized robust CI/CD pipelines, drastically accelerating software delivery and ensuring streamlined deployments using gitlab & jenkins. </p>
+- <p align="justify"> Designed and architected highly scalable, resilient systems on AWS, leveraging services such as EC2, ECS, ALB, NLB, RDS, SQS, SNS, SES, Lambda, IAM, VPC, CDN, S3, WAF and EKS to ensure high availability and fault tolerance. </p>
+- <p align="justify"> Utilized Amazon Web Services services such as CloudTrail, Athena, Config, and Organizations to meet compliance requirements, enabling thorough auditing, governance, and operational oversight. </p>
+- <p align="justify"> Architected and configured an on-premise Kubernetes cluster integrated with critical DevOps tools like ArgoCD, Jenkins, SonarQube, Harbor, Sentry, Kafka, PostgreSQL, and MinIO. Managed over 30+ microservice releases using custom Helm chart configurations within this environment. </p>
+- <p align="justify"> Automated infrastructure provisioning and management with Terraform, ensuring operational efficiency and consistency. Monitored cloud systems with CloudWatch and Prometheus to enhance performance and maintain reliability. </p>
+- <p align="justify"> Adopted a comprehensive DevSecOps approach using GitHub Actions, ensuring full-spectrum security testing (SAST, SCA, IAST, DAST) across the entire system, embedding security at every stage of the development lifecycle. </p>
+- <p align="justify"> Contributed significantly with architecting skills and comprehensive knowledge, enabling the organization to achieve competency in AWS RDS, CDN, Well-Architected Framework & Container services also become an AWS Premium Partner. </p>
+
 
 **DevOps Engineer Intern @ [Simform Solutions](https://www.simform.com) (Dec 2021 - May 2022)**
 - <p align="justify"> Gained practical experience in linux and shell scripting for automating server configurations. </p>
@@ -60,18 +66,22 @@ Experienced DevOps Engineer skilled in optimizing CI/CD pipelines, automating cl
 
 ### Dataos
 <p align="justify">
-Administration of DataOS SaaS products built on top of Kubernetes with custom controllers and operators, incorporating major big data analytics tools such as Pulsar, Redshift, Trino clusters, Workbench, ETL workflows, Airflow, Spark and open-source tools like ELK, Prometheus, Thanos, JuiceFS, Velero,
-kong controllers and more.
+Administration of DataOS SaaS products (EKS,AKS,GKE) built on top of Kubernetes with custom controllers and operators, incorporating major big data analytics tools such as Pulsar, Redshift, Trino clusters, Workbench, ETL workflows, Airflow, Spark and open-source tools like ELK, Prometheus, Thanos, JuiceFS, Velero, kong controllers and more.
 </p>  
-
-### Tsq platform
-<p align="justify">
-Implemented an event-driven, scalable solution using ecs fargate services that dynamically scale based on sqs metrics. Orchestrated a robust backend with ecs-ec2 & cdn for global accessibility and reduced latency, leveraging Lambda functions for serverless computing. Utilized s3 for efficient storage and data management. Provisioned the infrastructure using Terraform for repeatable and efficient deployments.
-</p>
 
 ### On-Premise DevOps
 <p align="justify">
 Deployed and managed an on-premises kubernetes cluster with multi master, which equipped with 250 GB memory and 60 cpu cores. Integrated sonarqube for code analysis, jenkins for CI/CD automation, and prometheus for system monitoring. Established end-to-end DevOps processes across dev, qa environments, ensuring code quality, reliability, and scalability.
+</p>
+
+### Sweet Analitics
+<p align="justify">
+Architected a scalable e-commerce platform on Amazon EKS with Carpenter for auto-scaling, Amazon RDS Aurora for database services, and DynamoDB for real-time data sync. Utilized AWS Lambda for serverless backend processes and CloudFront for global content delivery, automating deployments with Terraform.
+</p>
+
+### Tagb Parking Solutions
+<p align="justify">
+Architected a secure, scalable backend infrastructure using Amazon ECS backed by EC2 with Spot Fleet for cost-effective scaling, ensuring compliance with PCI-DSS standards. Integrated AWS WAF & Lambda@Edge functions for enhanced endpoint security. Leveraged Terraform for automating infrastructure provisioning, while establishing an efficient CI/CD pipeline with Jenkins for seamless software delivery.
 </p>
 
 ### Jimi-Iot
@@ -79,12 +89,12 @@ Deployed and managed an on-premises kubernetes cluster with multi master, which 
 Bellw deployed Jim IoT stack consisting of 20 microservices using terraform for automation. aws ecs fargate was utilized for scalable backend deployment, implementing service discovery for internal communication. Load balancing was achieved through aws alb & nlb services, with nfs shared network storage facilitating container data sharing.
 </p>
 
-### Tagb Parking Solutions
-<p align="justify">
-Developed and deployed a secure, scalable backend infrastructure using Amazon ecs and aws waf. Utilized terraform for automation and provisioning, while establishing an efficient CI/CD pipeline with Jenkins for seamless software delivery.
-</p>
-
 ### Curamcare
 <p align="justify">
 Orchestrated a secure and scalable backend workload using ecs and waf with AWS Config, provisioned via terraform. Spearheaded a devsecops Pipeline integrated with code pipeline and github action to bolster security.Leveraged a cdn for global accessibility and reduced latency.
+</p>
+
+### Tsq platform
+<p align="justify">
+Implemented an event-driven, scalable solution using ecs fargate services that dynamically scale based on sqs metrics. Orchestrated a robust backend with ecs-ec2 & cdn for global accessibility and reduced latency, leveraging Lambda functions for serverless computing. Utilized s3 for efficient storage and data management. Provisioned the infrastructure using Terraform for repeatable and efficient deployments.
 </p>
